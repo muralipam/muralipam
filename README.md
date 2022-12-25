@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muralipam
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and machine learning tools
 
 
 <!---
